@@ -6,7 +6,6 @@ I use the ImageAI package to make custom object detection on each frame. Please 
 https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/README.md
 
 # IMPORTANT - Download model first
-
-    [RetinaNet](https://1drv.ms/u/s!ApH9RKcWDsubhdMuX9KVrJTHSEj0_A?e=GHBFvX) (Size = 145 mb, high performance and accuracy, with longer detection time)
-    [YOLOv3](https://1drv.ms/u/s!ApH9RKcWDsubhdMvc4HD6z0Py6bE7Q?e=p27Dkt) (Size = 237 mb, moderate performance and accuracy, with a moderate detection time)
-    [TinyYOLOv3](https://1drv.ms/u/s!ApH9RKcWDsubhdMtrrPjWJG3pYHLBA?e=eHtwMW) (Size = 34 mb, optimized for speed and moderate performance, with fast detection time)
+[RetinaNet](https://1drv.ms/u/s!ApH9RKcWDsubhdMuX9KVrJTHSEj0_A?e=GHBFvX) (Size = 145 mb, high performance and accuracy, with longer detection time)
+[YOLOv3](https://1drv.ms/u/s!ApH9RKcWDsubhdMvc4HD6z0Py6bE7Q?e=p27Dkt) (Size = 237 mb, moderate performance and accuracy, with a moderate detection time)
+[TinyYOLOv3](https://1drv.ms/u/s!ApH9RKcWDsubhdMtrrPjWJG3pYHLBA?e=eHtwMW) (Size = 34 mb, optimized for speed and moderate performance, with fast detection time)
