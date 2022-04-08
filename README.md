@@ -40,6 +40,7 @@ python3 aive-detection.py --url https://www.youtube.com/watch?v=h4s0llOpKrU
 
 - [Result-Tan-Quang](https://1drv.ms/u/s!ApH9RKcWDsubhdM4MVuene0bPqw9_w?e=6aflFD) (Input Video, Output Videos, Audio)
 
+# INPUT FOLDER STRUCTURE:
 ```bash
 .
 ├── aive
@@ -52,6 +53,32 @@ python3 aive-detection.py --url https://www.youtube.com/watch?v=h4s0llOpKrU
 │   ├── resnet50_coco_best_v2.1.0.h5
 │   ├── yolo.h5
 │   └── yolo-tiny.h5
+├── aive-detection.ipynb
+├── aive-detection.py
+├── requirements.txt
+└── setup.py
+```
+
+# OUTPUT FOLDER STRUCTURE:
+```bash
+.
+├── aive
+│   ├── __pycache__
+│   │   ├── __init__.cpython-37.pyc
+│   │   └── utils.cpython-37.pyc
+│   ├── __init__.py
+│   └── utils.py
+├── audio
+│   └── dior_audio.mp3
+├── models
+│   ├── resnet50_coco_best_v2.1.0.h5
+│   ├── yolo.h5
+│   └── yolo-tiny.h5
+├── video_in
+│   └── MISS DIOR – The new Eau de Parfum.mp4
+├── video_out
+│   ├── dior_box_music.mp4
+│   └── dior_box_NO_music.mp4
 ├── aive-detection.ipynb
 ├── aive-detection.py
 ├── requirements.txt
