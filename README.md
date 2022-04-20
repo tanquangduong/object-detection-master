@@ -36,10 +36,9 @@ pip install -r requirements.txt
 ## Step3: Run this line on terminal 
 python3 aive-detection.py --url https://www.youtube.com/watch?v=h4s0llOpKrU
 
-# Download My result
+# Download Outputs
 
-- [Result-Tan-Quang](https://1drv.ms/u/s!ApH9RKcWDsubhdM4MVuene0bPqw9_w?e=6aflFD) (Input Video, Output Videos, Audio)
-- [New Result-Tan-Quang](https://1drv.ms/u/s!ApH9RKcWDsubhdM5BirtQ0COGXDyxw?e=x8cqRV) (Output Videos)
+- [Output Videos](https://1drv.ms/u/s!ApH9RKcWDsubhdM5BirtQ0COGXDyxw?e=x8cqRV) 
 
 # INPUT FOLDER STRUCTURE:
 ```bash
